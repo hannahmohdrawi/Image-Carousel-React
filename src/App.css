@@ -1,0 +1,25 @@
+body{
+  background-color: black;
+  
+}
+
+h1{
+  text-align: center;
+  color: pink;
+}
+
+img{
+  width: 500px;
+}
+
+button{
+  width: 50px;
+  height: 20px;
+  margin: 50px;
+}
+
+.container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
