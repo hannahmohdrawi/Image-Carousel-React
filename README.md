@@ -1,8 +1,16 @@
-# React + Vite
+# Fiercest Apex Predators in the World Image Carousel
+An interactive Image Carousel using React.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+This code was created as part of my personal web development to improve my HTML, CSS and JavaScript skills using React. </br>
+The focus on this project was to use React hooks, specifically useState Hook to create a change in image selection.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Languages used:
+* HTML
+* CSS
+* JavaScript
+
+  
+## Completed Date:
+* Incomplete as of currently with future improvements to be made
