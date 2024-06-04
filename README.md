@@ -13,4 +13,4 @@ The focus on this project was to use React hooks, specifically useState Hook to 
 
   
 ## Completed Date:
-* Incomplete as of currently with future improvements to be made
+* 04 Jun 2024
